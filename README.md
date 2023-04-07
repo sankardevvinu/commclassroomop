@@ -1,2 +1,3 @@
 # commclassroomop
-sankardev is a goodboy
+It is a demo project.
+Hello everyone
