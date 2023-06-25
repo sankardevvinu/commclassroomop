@@ -1,0 +1,8 @@
+*** Java  ***
+
+* Java is a partial object-oriented programming language, plus a procedural programming language.
+* In java, functions are known as methods.
+* Java is a compiled language.
+* Java compiles source code into byte code and then converts byte code into machine code.
+
+
