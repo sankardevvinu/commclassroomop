@@ -1,2 +1,2 @@
-# commclassroomop
-sankardev is a goodboy
+#commclassroomOp
+-If u smell then Satya is cooking
