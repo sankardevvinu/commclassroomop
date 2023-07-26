@@ -1,2 +1,5 @@
 # commclassroomop
-sankardev is a goodboy
+
+
+- teja is smart
+
