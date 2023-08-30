@@ -1,2 +1,2 @@
 # commclassroomop
-sankardev is a goodboy
+ India produces good amount of fruits which are consumed locally.
