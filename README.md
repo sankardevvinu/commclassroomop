@@ -1,2 +1,1 @@
-# commclassroomop
-sankardev is a goodboy
+This is a CLI writter by Nag
